@@ -1,7 +1,7 @@
 # BOZO BOT
 
 ![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)
-![Node.js CI](https://github.com/jvbraganca/bozo-bot/workflows/Node.js%20CI/badge.svg?branch=master)
+[![Node.js CI](https://github.com/jvbraganca/ufmg-bot/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/jvbraganca/ufmg-bot/actions/workflows/node.js.yml)
 
 ### Este é um simples bot criado usando Node.js e a API do Twitter.
 
