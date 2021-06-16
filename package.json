@@ -1,0 +1,16 @@
+{
+  "name": "ufmg-bot",
+  "version": "1.0.0",
+  "description": "A bot to retweet all mentions to UFMG",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node ./bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Bragança",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "twit": "^2.2.11"
+  }
+}
